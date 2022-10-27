@@ -1,0 +1,12 @@
+pandas
+scipy
+numpy
+matplotlib
+seaborn==v0.11.2
+plotly
+statsmodels
+jupyter-dash
+dash[testing]
+selenium
+pytest
+itsdangerous==2.0.1

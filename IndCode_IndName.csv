@@ -1,0 +1,25 @@
+﻿Indicator Name;Indicator Code
+A woman can be head of household in the same way as a man;SG.HLD.HEAD.EQ
+A woman can get a job in the same way as a man;SG.GET.JOBS.EQ
+A woman can register a business in the same way as a man;SG.BUS.REGT.EQ
+A woman can work in an industrial job in the same way as a man;SG.IND.WORK.EQ
+Dismissal of pregnant workers is prohibited;SG.DML.PRGW
+Employment to population ratio, 15+, female (%);SL.EMP.TOTL.SP.FE.NE.ZS
+Employment to population ratio, 15+, male (%);SL.EMP.TOTL.SP.MA.NE.ZS
+Employment to population ratio, 15+, total (%);SL.EMP.TOTL.SP.NE.ZS
+Female graduates in Agriculture related programmes (%);SE.TER.GRAD.FE.AG.ZS
+Female graduates in Administration related programmes (%);UIS.FGP.5T8.F400
+Female graduates in Manufacturing related programmes (%);SE.TER.GRAD.FE.EN.ZS
+Female graduates in Services related programmes (%);UIS.FGP.5T8.F600
+Firms with female participation in ownership (% of firms);IC.FRM.FEMO.ZS
+Gini index;SI.POV.GINI
+% of total working-age population with advanced education;SL.TLF.ADVN.ZS
+% of female working-age population with advanced education;SL.TLF.ADVN.FE.ZS
+% of male working-age population with advanced education;SL.TLF.ADVN.MA.ZS
+% of total working-age population with basic education;SL.TLF.BASC.ZS
+% of female working-age population with basic education;SL.TLF.BASC.FE.ZS
+% of male working-age population with basic education;SL.TLF.BASC.MA.ZS
+% of total working-age population with intermediate education;SL.TLF.INTM.ZS
+% of female working-age population with intermediate education;SL.TLF.INTM.FE.ZS
+% of male working-age population with intermediate education;SL.TLF.INTM.MA.ZS
+Total % of female labor force;SL.TLF.TOTL.FE.ZS

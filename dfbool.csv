@@ -1,0 +1,79 @@
+,country_name,years,SG.IND.WORK.EQ,SG.DML.PRGW,SG.HLD.HEAD.EQ,SG.GET.JOBS.EQ,SG.BUS.REGT.EQ
+0,Brazil,1994,True,True,False,True,False
+1,Brazil,1999,True,True,False,True,False
+2,Brazil,2004,True,True,True,True,True
+3,Brazil,2009,True,True,True,True,True
+4,Brazil,2014,True,True,True,True,True
+5,Brazil,2019,True,True,True,True,True
+6,Canada,1994,True,True,True,True,True
+7,Canada,1999,True,True,True,True,True
+8,Canada,2004,True,True,True,True,True
+9,Canada,2009,True,True,True,True,True
+10,Canada,2014,True,True,True,True,True
+11,Canada,2019,True,True,True,True,True
+12,Colombia,1994,False,True,True,True,True
+13,Colombia,1999,False,True,True,True,True
+14,Colombia,2004,False,True,True,True,True
+15,Colombia,2009,False,True,True,True,True
+16,Colombia,2014,False,True,True,True,True
+17,Colombia,2019,False,True,True,True,True
+18,Egypt,1994,False,True,False,False,True
+19,Egypt,1999,False,True,False,False,True
+20,Egypt,2004,False,True,False,False,True
+21,Egypt,2009,False,True,False,False,True
+22,Egypt,2014,False,True,False,False,True
+23,Egypt,2019,False,True,False,False,True
+24,France,1994,False,True,True,True,True
+25,France,1999,False,True,True,True,True
+26,France,2004,True,True,True,True,True
+27,France,2009,True,True,True,True,True
+28,France,2014,True,True,True,True,True
+29,France,2019,True,True,True,True,True
+30,Germany,1994,False,True,True,True,True
+31,Germany,1999,False,True,True,True,True
+32,Germany,2004,False,True,True,True,True
+33,Germany,2009,True,True,True,True,True
+34,Germany,2014,True,True,True,True,True
+35,Germany,2019,True,True,True,True,True
+36,India,1994,False,True,True,True,True
+37,India,1999,False,True,True,True,True
+38,India,2004,False,True,True,True,True
+39,India,2009,False,True,True,True,True
+40,India,2014,False,True,True,True,True
+41,India,2019,False,True,True,True,True
+42,Italy,1994,False,True,True,True,True
+43,Italy,1999,False,True,True,True,True
+44,Italy,2004,True,True,True,True,True
+45,Italy,2009,True,True,True,True,True
+46,Italy,2014,True,True,True,True,True
+47,Italy,2019,True,True,True,True,True
+48,Japan,1994,False,True,True,True,True
+49,Japan,1999,False,True,True,True,True
+50,Japan,2004,False,True,True,True,True
+51,Japan,2009,False,True,True,True,True
+52,Japan,2014,False,True,True,True,True
+53,Japan,2019,False,True,True,True,True
+54,Mexico,1994,True,False,True,True,True
+55,Mexico,1999,True,False,True,True,True
+56,Mexico,2004,True,False,True,True,True
+57,Mexico,2009,True,False,True,True,True
+58,Mexico,2014,True,True,True,True,True
+59,Mexico,2019,True,True,True,True,True
+60,Russia,1994,False,True,True,True,True
+61,Russia,1999,False,True,True,True,True
+62,Russia,2004,False,True,True,True,True
+63,Russia,2009,False,True,True,True,True
+64,Russia,2014,False,True,True,True,True
+65,Russia,2019,False,True,True,True,True
+66,United Kingdom,1994,True,False,True,True,True
+67,United Kingdom,1999,True,False,True,True,True
+68,United Kingdom,2004,True,True,True,True,True
+69,United Kingdom,2009,True,True,True,True,True
+70,United Kingdom,2014,True,True,True,True,True
+71,United Kingdom,2019,True,True,True,True,True
+72,United States,1994,True,True,True,True,True
+73,United States,1999,True,True,True,True,True
+74,United States,2004,True,True,True,True,True
+75,United States,2009,True,True,True,True,True
+76,United States,2014,True,True,True,True,True
+77,United States,2019,True,True,True,True,True
